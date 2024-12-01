@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Modern Family Home",
+    "segment_name": "Single-family homes",
+    "description": "Spacious and contemporary family home with beautiful backyard.",
+    "price": "$750,000",
+    "status": "sale",
+    "area": "3000 sq ft",
+    "location": "Los Angeles, CA",
+    "facilities": [
+      "4 Bedrooms",
+      "3 Bathrooms",
+      "Home Office"
+    ],
+    "image": "/src/assets/single-family homes.jpg",
+    "button": "View Property"
+  },
+  
+  {
+    "id": 2,
+    "estate_title": "Luxury Townhouse",
+    "segment_name": "Townhouses",
+    "description": "Luxurious townhouse with rooftop terrace and city views.",
+    "price": "$1,200,000",
+    "status": "sale",
+    "area": "2500 sq ft",
+    "location": "New York, NY",
+    "facilities": [
+      "3 Bedrooms",
+      "3.5 Bathrooms",
+      "Private Garage"
+    ],
+    "image": "/src/assets/townhouses.jpg",
+    "button": "View Property"
+  },
+  
+  {
+    "id": 3,
+    "estate_title": "Urban Apartment",
+    "segment_name": "Apartments",
+    "description": "Modern apartment in downtown area with access to amenities.",
+    "price": "$2,500/month",
+    "status": "rent",
+    "area": "1200 sq ft",
+    "location": "Chicago, IL",
+    "facilities": [
+      "2 Bedrooms",
+      "2 Bathrooms",
+      "Fitness Center"
+    ],
+    "image": "/src/assets/apartments.jpg",
+    "button": "View Property"
+  },
+  
+  {
+    "id": 4,
+    "estate_title": "Student Housing",
+    "segment_name": "Student housing",
+    "description": "Comfortable student housing with study areas and communal spaces.",
+    "price": "$800/month",
+    "status": "rent",
+    "area": "600 sq ft",
+    "location": "Boston, MA",
+    "facilities": [
+      "Furnished",
+      "Study Rooms",
+      "Laundry Facilities"
+    ],
+    "image": "/src/assets/student housing.jpg",
+    "button": "View Property"
+  },
+  
+  {
+    "id": 5,
+    "estate_title": "Senior Living Community",
+    "segment_name": "Senior living communities",
+    "description": "Retirement community with amenities for independent living.",
+    "price": "$3,000/month",
+    "status": "rent",
+    "area": "1000 sq ft",
+    "location": "Miami, FL",
+    "facilities": [
+      "24/7 Care",
+      "Social Activities",
+      "Medical Services"
+    ],
+    "image": "/src/assets/senior living communities.jpg",
+    "button": "View Property"
+  },
+  
+  {
+    "id": 6,
+    "estate_title": "Vacation Rental Villa",
+    "segment_name": "Vacation rentals",
+    "description": "Luxury villa for vacation rentals with private pool and ocean views.",
+    "price": "$500/night",
+    "status": "rent",
+    "area": "4000 sq ft",
+    "location": "Maui, HI",
+    "facilities": [
+      "5 Bedrooms",
+      "Private Pool",
+      "Oceanfront"
+    ],
+    "image": "/src/assets/vacation rentals.jpg",
+    "button": "View Property"
+  },
+  
+  {
+    "id": 7,
+    "estate_title": "Lakefront Cabin",
+    "segment_name": "Vacation rentals",
+    "description": "Cozy cabin nestled by the lake, perfect for a weekend getaway.",
+    "price": "$300/night",
+    "status": "rent",
+    "area": "800 sq ft",
+    "location": "Lake Tahoe, NV",
+    "facilities": [
+      "2 Bedrooms",
+      "Fireplace",
+      "Dock Access"
+    ],
+    "image": "/src/assets/vacation rentals.jpg",
+    "button": "View Property"
+  },
+  
+  {
+    "id": 8,
+    "estate_title": "Family-Friendly Apartment",
+    "segment_name": "Apartments",
+    "description": "Spacious apartment in a family-friendly neighborhood with playgrounds nearby.",
+    "price": "$1,800/month",
+    "status": "rent",
+    "area": "1500 sq ft",
+    "location": "Austin, TX",
+    "facilities": [
+      "3 Bedrooms",
+      "2 Bathrooms",
+      "Playground"
+    ],
+    "image": "/src/assets/apartments.jpg",
+    "button": "View Property"
+  },
+  
+  {
+    "id": 9,
+    "estate_title": "Mountain Retreat",
+    "segment_name": "Vacation rentals",
+    "description": "Secluded mountain cabin for nature lovers seeking tranquility.",
+    "price": "$200/night",
+    "status": "rent",
+    "area": "1200 sq ft",
+    "location": "Asheville, NC",
+    "facilities": [
+      "1 Bedroom",
+      "Hiking Trails",
+      "Deck"
+    ],
+    "image": "/src/assets/vacation rentals.jpg",
+    "button": "View Property"
+  }
+]
