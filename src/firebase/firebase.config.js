@@ -6,12 +6,7 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDb2nvRpxAiSGkFtJFalI7XXHMlKSxvilI",
-  authDomain: "savor-oasis-132a1.firebaseapp.com",
-  projectId: "savor-oasis-132a1",
-  storageBucket: "savor-oasis-132a1.firebasestorage.app",
-  messagingSenderId: "133858020468",
-  appId: "1:133858020468:web:8dc4372e2de88125d01521"
+  
 };
 
 
